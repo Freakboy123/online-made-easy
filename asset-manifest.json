@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/online-made-easy/static/css/main.650457e7.chunk.css",
+    "main.js": "/online-made-easy/static/js/main.330192b5.chunk.js",
+    "main.js.map": "/online-made-easy/static/js/main.330192b5.chunk.js.map",
+    "runtime-main.js": "/online-made-easy/static/js/runtime-main.dd582d38.js",
+    "runtime-main.js.map": "/online-made-easy/static/js/runtime-main.dd582d38.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/online-made-easy/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.f1911332.chunk.js": "/online-made-easy/static/js/2.f1911332.chunk.js",
+    "static/js/2.f1911332.chunk.js.map": "/online-made-easy/static/js/2.f1911332.chunk.js.map",
+    "static/js/3.da469d8a.chunk.js": "/online-made-easy/static/js/3.da469d8a.chunk.js",
+    "static/js/3.da469d8a.chunk.js.map": "/online-made-easy/static/js/3.da469d8a.chunk.js.map",
+    "index.html": "/online-made-easy/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/online-made-easy/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.650457e7.chunk.css.map": "/online-made-easy/static/css/main.650457e7.chunk.css.map",
+    "static/js/2.f1911332.chunk.js.LICENSE.txt": "/online-made-easy/static/js/2.f1911332.chunk.js.LICENSE.txt",
+    "static/media/background_music.a78ba760.mp3": "/online-made-easy/static/media/background_music.a78ba760.mp3",
+    "static/media/inspirationalbackground.363691af.jpeg": "/online-made-easy/static/media/inspirationalbackground.363691af.jpeg",
+    "static/media/meditationBackground.66c56280.jpg": "/online-made-easy/static/media/meditationBackground.66c56280.jpg",
+    "static/media/play-button.90ff39d9.png": "/online-made-easy/static/media/play-button.90ff39d9.png",
+    "static/media/stop_button.8de09fc4.png": "/online-made-easy/static/media/stop_button.8de09fc4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd582d38.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.f1911332.chunk.js",
+    "static/css/main.650457e7.chunk.css",
+    "static/js/main.330192b5.chunk.js"
+  ]
+}
